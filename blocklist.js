@@ -1,1 +1,1 @@
-["bloomberg.com", "fool.com", "bbc.co.uk"];
+["bloomberg.com", "fool.com", "bbc.co.uk"]
